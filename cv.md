@@ -1,4 +1,4 @@
-1. Ekateina Kashleva
+1. **Ekateina Kashleva**
 2. Contact Info:
  - [VK](https://vk.com/katerinakashleva)
  - [Telegram](https://t.me/ketrinkash)
@@ -9,7 +9,7 @@
  - **HTML5/CSS3:** methodology BEM, framework Bootstrap 4, devtools, version control Git;
 
 5. Tasks implemented on the basis of JavaScript:
-  1. Create your own structure CONDITION
+ - Create your own structure CONDITION
     Minimum number of conditions in one structure: 5
 
     var number1 = 5;
@@ -34,7 +34,7 @@
     check(number5); // Number failed check
     check(number6); // Number failed check
 
-  2. Output to console using WHILE loop, all odd numbers from 30 to 40
+  - Output to console using WHILE loop, all odd numbers from 30 to 40
 
     var n = 30;
      while (n <= 40) {
@@ -44,13 +44,13 @@
        n++;
      }
 
-  3. Output to console using FOR loop, all even numbers from 70 to 40. The first even number must be 70.
+  - Output to console using FOR loop, all even numbers from 70 to 40. The first even number must be 70.
 
-     for (var i = 70; i <= 70 && i >= 40; i--) {
-      if (i % 2 == 0) {
-        console.log(i);
+      for (var i = 70; i <= 70 && i >= 40; i--) {
+        if (i % 2 == 0) {
+          console.log(i);
+        }
       }
-    }
 
 6. I have completed an [online course](https://wayup.in/library/course7) on HTML/CSS/JS
 (this is my [thesis](https://github.com/ketrinkash/diplom-project)).
