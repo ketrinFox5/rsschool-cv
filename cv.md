@@ -16,17 +16,17 @@
     var number3 = -1;
     var number4 = 100;
     var number5 = 102;
-    var number6 = 50;
+    var number6 = 50;`
 
-    function check(number) {
+    `function check(number) {
       if (number > 0 && number <= 100  && number != 0 && (number != 50 || number == 55)) {
         console.log('The number passed the test' + ' ' + number);
       } else {
         console.log('Number failed check' + ' ' + number);
       }
-    }
+    }`
 
-    check(number1); // The number passed the test
+    `check(number1); // The number passed the test
     check(number2); // Number failed check
     check(number3); // Number failed check
     check(number4); // The number passed the test
