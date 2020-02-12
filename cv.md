@@ -33,7 +33,7 @@
     check(number5); // Number failed check
     check(number6); // Number failed check`
 
-  - Output to console using WHILE loop, all odd numbers from 30 to 40
+    - Output to console using WHILE loop, all odd numbers from 30 to 40
 
     `var n = 30;
      while (n <= 40) {
@@ -43,7 +43,7 @@
        n++;
      }`
 
-  - Output to console using FOR loop, all even numbers from 70 to 40. The first even number must be 70.
+    - Output to console using FOR loop, all even numbers from 70 to 40. The first even number must be 70.
 
       `for (var i = 70; i <= 70 && i >= 40; i--) {
         if (i % 2 == 0) {
